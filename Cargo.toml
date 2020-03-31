@@ -9,6 +9,5 @@ build = "build.rs"
 
 [dependencies]
 
-
 [[example]]
 name = "hello_world"

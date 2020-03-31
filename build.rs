@@ -1,3 +1,3 @@
 fn main() {
-    println!("executed build!");
+    panic!("Parsing of files not yet implemented!");
 }
