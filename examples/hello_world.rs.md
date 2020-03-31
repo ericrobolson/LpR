@@ -27,7 +27,7 @@ Note: I'm not quite sure what's going on here.
 - Booze.
 
 This is a code section:
-````
+```
 fn main() {
     println!("Hello, world!");
 }
