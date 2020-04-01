@@ -1,9 +1,15 @@
+mod parser;
+
+pub fn lpr() {
+    println!("a lpr!");
+}
+
 #[macro_export]
 macro_rules! lpr_init{
            [ $($elements:tt)* ] => {
                 $(
                  $elements
-            )*
+                )*
            }
 }
 
